@@ -1,10 +1,10 @@
 // app.js
 const readline = require("readline");
 const chalk = require("chalk");
-
+ 
 /**
  * Catalogo de productos (sin tildes en nombres/categorias)
- * Mantener ids unicos.
+ * Mantener ids unico.
  */
 const productos = [
   { id: 1, nombre: "pan", precio: 2.5, categoria: "panaderia" },
