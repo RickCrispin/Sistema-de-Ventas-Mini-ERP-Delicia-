@@ -2,7 +2,6 @@
 /**
  * Clase Tienda
  * Representa la base de una tienda: maneja catálogo, carrito y operaciones básicas.
- * Esta clase puede ser extendida (por ejemplo, TiendaOnline).
  */
 
 const Catalogo = require("../domain/Catalogo");
